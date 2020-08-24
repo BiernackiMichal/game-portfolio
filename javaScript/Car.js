@@ -172,8 +172,8 @@ class Car {
     }
 
     setMaxTurningValue() {
-        this.turningValue = this.turningValue > 3.4 ? 3.4 : this.turningValue;
-        this.turningValue = this.turningValue < 2.9 ? 2.9 : this.turningValue;
+        this.turningValue = this.turningValue > 3.3 ? 3.3 : this.turningValue;
+        this.turningValue = this.turningValue < 3 ? 3 : this.turningValue;
     }
 
     updateCarPosition() {
