@@ -37,32 +37,32 @@ class Projects {
         gamePortfolio: {
             name: 'gamePortfolio',
             title: 'gra-Portfolio',
-            github: 'https://google.com',
-            live: 'graLive'
+            github: 'https://github.com/BiernackiMichal/game-portfolio',
+            live: 'https://biernackimichal.github.io/game-portfolio/'
         },
         websitePortfolio: {
             name: 'websitePortfolio',
             title: 'strona-Portfolio',
-            github: 'stronaGithub',
-            live: 'stronaLive'
+            github: 'https://github.com/BiernackiMichal/WebsitePortfolio',
+            live: 'https://biernackimichal.github.io/WebsitePortfolio/'
         },
         friendlyBeat: {
             name: 'friendlyBeat',
             title: 'FriendlyBeat',
-            github: 'friendlyBeatGithub',
-            live: 'frinedlyBeatLive'
+            github: 'https://github.com/BiernackiMichal/MusicApp',
+            live: 'http://friendlybeat2-001-site1.ftempurl.com'
         },
         diary: {
             name: 'diary',
             title: 'E-dziennik',
-            github: 'edziennikGithub',
-            live: 'http://dziennik-001-site1.etempurl.com'
+            github: 'https://github.com/BiernackiMichal/E-Dziennik',
+            live: 'http://dziennik1-001-site1.gtempurl.com'
         },
         brickGame: {
             name: 'brickGame',
             title: 'gra C++',
-            github: 'graC++Github',
-            live: 'graC++Live'
+            github: 'https://github.com/BiernackiMichal/CPP-game-with-SFML',
+            live: ''
         },
 
     }

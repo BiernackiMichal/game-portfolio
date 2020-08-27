@@ -80,7 +80,7 @@ class Airplane {
             }
             if (this.airplaneObject.position.z < 1380) {
                 this.airplaneObject.position.z += this.velocity;
-                if (this.velocity > 0.2)
+                if (this.velocity > 0.3)
                     this.velocity -= 0.019;
             }
         }

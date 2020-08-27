@@ -9,7 +9,7 @@ canvas {
 }
 @font-face {
   font-family: "techFont";
-  src: url("/game-portfolio/assets/font.otf");
+  src: url("/assets/font.otf");
 }
 
 @import "email-container";
@@ -33,7 +33,7 @@ canvas {
 
 .sending {
   position: absolute;
-  top: 7vh;
+  top: 9vh;
   left: 45vw;
   font-size: 2em;
   color: white;
