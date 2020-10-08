@@ -50,13 +50,13 @@ class Projects {
             name: 'friendlyBeat',
             title: 'FriendlyBeat',
             github: 'https://github.com/BiernackiMichal/MusicApp',
-            live: 'http://friendlybeat2-001-site1.ftempurl.com'
+            live: 'http://friendlybeat11-001-site1.dtempurl.com'
         },
         diary: {
             name: 'diary',
             title: 'E-dziennik',
             github: 'https://github.com/BiernackiMichal/E-Dziennik',
-            live: 'http://dziennik1-001-site1.gtempurl.com'
+            live: 'http://dziennik12-001-site1.ctempurl.com'
         },
         brickGame: {
             name: 'brickGame',
